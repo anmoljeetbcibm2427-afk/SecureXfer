@@ -1,26 +1,26 @@
-# 🔐 SecureXfer
+# 🔐 SecureXfer – Secure File Encryption and Transfer System
 
-### Secure File Encryption and Transfer System
+SecureXfer is a cybersecurity project designed to protect files using modern encryption techniques. It provides secure file encryption, decryption, and integrity verification.
 
-SecureXfer is a cybersecurity project designed to protect files through encryption and secure file handling.
+## ✨ Features
 
-## Features
-- AES-256-GCM file encryption
+- AES-256-GCM encryption
 - Secure file decryption
 - PBKDF2 key derivation
 - SHA-256 hash verification
 - Encrypted file generation
 
-## Technologies Used
+## 🛠️ Technologies Used
+
 - React.js
 - Vite
 - Node.js
 - JavaScript
 - Cryptography
 
-## Installation
+## 🚀 How to Run
 
-1. Clone this repository.
+1. Clone the repository.
 2. Install dependencies:
 
 ```bash
@@ -33,8 +33,16 @@ npm install
 npm run dev
 ```
 
-## Project Purpose
+4. Open the local URL shown in your terminal.
 
-The main purpose of SecureXfer is to demonstrate secure file handling, encryption and data integrity using modern cryptographic techniques.
+## 🎯 Project Objective
 
-**Developed as a BCA Cybersecurity Project.**
+To demonstrate secure file handling, data encryption, and integrity verification using cryptographic techniques.
+
+## 👩‍💻 Project Information
+
+**Project Name:** SecureXfer
+
+**Domain:** Cybersecurity
+
+**Degree:** Bachelor of Computer Applications (BCA)
